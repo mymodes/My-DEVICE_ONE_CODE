@@ -11,11 +11,16 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    
     {
         "device_id": "21421ed49074d69a",
         "key": "ram123",
         "expirydate": "15-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5740A78822273AC7",
+        "key": "123456",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     },
 ]
