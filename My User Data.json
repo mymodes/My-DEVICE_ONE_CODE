@@ -10,17 +10,4 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "5740a78822273ac7",
-        "key": "ram123",
-        "expirydate": "25-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "5740a78822273ac7",
-        "key": "1122",
-        "expirydate": "20-08-2026",
-        "Allowoffline": true
-    },
-]
+    }
